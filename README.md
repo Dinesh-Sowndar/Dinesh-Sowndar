@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **[💬WhatsApp](https://wa.me/917010674588)**
+- 📫 How to reach me **[💬 WhatsApp](https://wa.me/917010674588)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

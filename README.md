@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-sowndar&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-sowndar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-sowndar" alt="dinesh-sowndar" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-sowndar" alt="dinesh-sowndar" /></a> </p> -->
 
 - 🌱 I’m currently learning **React, NextJS**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **dineshsowndar@gmail.com**
+- 📫 How to reach me **[dineshsowndar@gmail.com](https://wa.me/917010674588)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
